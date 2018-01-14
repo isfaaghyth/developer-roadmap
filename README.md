@@ -42,7 +42,6 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 - [X] Add Frontend Roadmap
 - [X] Add Backend Roadmap
 - [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
 
 ## 👬 Contribution
 
